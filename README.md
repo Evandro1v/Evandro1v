@@ -12,9 +12,9 @@
 <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandro1v&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro1v&layout=compact&theme=dracula&width:900px)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Evandro1v/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Evandro1v" />
 </a>
 <a href="https://github.com/Evandro1v">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Evandro1v&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Evandro1v&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
