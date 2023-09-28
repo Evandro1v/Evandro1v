@@ -11,3 +11,5 @@
 
 <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandro1v&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro1v&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro1v)](https://github.com/Evandro1v/github-readme-stats)
+
